@@ -1,6 +1,5 @@
 ### Hi there 👋, i'm Ana-Maria @ from Chicago
 - 🔭 I’m currently working on CKA certification
-- 🤔 I’m looking for help with K8 projects
 - ⚡ Fun fact: I was born in Romania
 
 <!--
